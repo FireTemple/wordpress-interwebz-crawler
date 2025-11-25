@@ -39,7 +39,7 @@ FOUND → demo.wpsite.net | REST API endpoint | https://demo.wpsite.net/wp-json/
 
 Even with default settings, within 1–3 minutes you will have 50–300 real self-hosted WordPress sites saved to self_hosted_wordpress_sites.txt.
 
-Step 3: Verify the Results
+### Step 3: Verify the Results
 # See how many you found
 wc -l self_hosted_wordpress_sites.txt
 
@@ -78,7 +78,7 @@ python wp_crawler.py
 You will hit 500–2000 sites in under 10 minutes on a normal laptop.
 
 
-Step 5: Stop Gracefully Anytime
+### Step 5: Stop Gracefully Anytime
 If you’re impatient, run this single command after installing dependencies:
 
 python3 -c "
