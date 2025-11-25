@@ -1,6 +1,8 @@
 ### wordpress-interwebz-crawler
 Finds every selfhosted wordpress on the interwebz
 
+Python web crawler specifically designed to discover self-hosted WordPress sites (i.e., any domain running WordPress but excluding wordpress.com and its subdomains).It combines multiple reliable WordPress detection techniques so you get very high accuracy with low false positives.
+
 ### Step 0: Prerequisites
 
 ## Linux / MacOS
